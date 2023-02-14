@@ -1,2 +1,2 @@
 # new-hello-world
-This repository is just created for the purpose of playing
+This repository is the clone for the main repo.
